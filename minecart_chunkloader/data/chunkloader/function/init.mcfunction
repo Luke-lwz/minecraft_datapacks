@@ -1,3 +1,7 @@
+
+tellraw @a[tag=op] {"text":"Debug info","color":"gray"}
+
+
 # Step 1: Reset all tracked chunkload markers
 kill @e[type=marker,tag=chunk_marker]
 
