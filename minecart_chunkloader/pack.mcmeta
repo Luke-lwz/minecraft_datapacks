@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 26,
-    "description": "Minecart Chunk Loader - Loads 3x3 chunks around named minecarts"
+    "pack_format": 61,
+    "description": "Chunkload around 'chunkloader' entity and unload when it leaves"
   }
 }
